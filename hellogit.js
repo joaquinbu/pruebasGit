@@ -4,3 +4,7 @@ function sumar(){
 }
 
 //Agregando un comentario
+
+function restar(){
+    return 0;
+}
