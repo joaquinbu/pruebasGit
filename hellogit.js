@@ -8,3 +8,7 @@ function sumar(){
 function restar(){
     return 0;
 }
+
+function multiplicar(){
+    return 0;
+}
