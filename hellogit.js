@@ -12,3 +12,8 @@ function restar(){
 function multiplicar(){
     return 0;
 }
+
+
+function dividir(){
+    return 0;
+}
