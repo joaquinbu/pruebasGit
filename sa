@@ -1,0 +1,29 @@
+[33mcommit 1e98bb1ac5f4954e4eeb8dd6836f019489276222[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: funciones_base_terminadas[m[33m, [m[1;32mlogin[m[33m)[m
+Author: joaquinbu <joaquinbu@live.com.mx>
+Date:   Sun Sep 17 20:47:15 2023 -0600
+
+    Se agrego la funcion dividir
+
+[33mcommit bc28f8bd46f562bee51cc3bf633406ee8fca2b5e[m
+Author: joaquinbu <joaquinbu@live.com.mx>
+Date:   Sun Sep 17 18:49:58 2023 -0600
+
+    Se realizo otro cambio
+
+[33mcommit 3672f954397e6c561d6b1df845a9830fd862ca69[m
+Author: joaquinbu <joaquinbu@live.com.mx>
+Date:   Sat Sep 16 20:49:07 2023 -0600
+
+    Se agrego la funcion restar
+
+[33mcommit c0c9d86596526d2e59ceebfbbb69ccdcc423f28f[m
+Author: joaquinbu <joaquinbu@live.com.mx>
+Date:   Sat Sep 16 20:36:31 2023 -0600
+
+    Se agrego un comentario
+
+[33mcommit f26a3ff13f90e19e6fe9c17710c98b66477d4246[m
+Author: joaquinbu <joaquinbu@live.com.mx>
+Date:   Sat Sep 16 20:08:36 2023 -0600
+
+    Este es mi primer commit

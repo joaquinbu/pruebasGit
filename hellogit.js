@@ -17,3 +17,7 @@ function multiplicar(){
 function dividir(){
     return 0;
 }
+
+function cubo(){
+    return 0;
+}
